@@ -6,23 +6,23 @@ The main objective of this project is to analyze a customer dataset stored in a 
 
 ## Common problems addressed
 
-Counting total customers
+1.Counting total customers
 
-Identifying top regions with most customers
+2.Identifying top regions with most customers
 
-Finding customers by subscription type
+3.Finding customers by subscription type
 
-Detecting customers without website/email info
+4.Detecting customers without website/email info
 
-Listing companies with multiple customers
+5.Listing companies with multiple customers
 
-Segmenting customers by country & city
+6.Segmenting customers by country & city
 
-Sorting customers alphabetically or by subscription
+7.Sorting customers alphabetically or by subscription
 
-Tracking high-value customers
+8.Tracking high-value customers
 
-Identifying inactive or unsubscribed customers
+9.Identifying inactive or unsubscribed customers
 
 ## Dataset
 
