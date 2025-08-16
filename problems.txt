@@ -1,0 +1,19 @@
+1.Find the total number of customers.
+
+2.List the top 5 countries with the most customers.
+
+3.Get all customers who belong to a specific company (e.g., "Google").
+
+4.Find customers who have both Phone1 and Phone2 filled.
+
+5.List all customers whose email domain is Gmail.
+
+6.Count customers by subscription type.
+
+7.Find customers without a website.
+
+8.Get the number of companies with more than 1 customer.
+
+9.how customers sorted alphabetically by Last Name.
+
+10.Find customers from a specific city and country (e.g., New York, USA).
